@@ -16,6 +16,7 @@ et3==1.5
 # both are doing command line parsing during installation
 green==2.9.0
 joblib==0.11
+git+https://github.com/elifesciences/pip-chill@verbose-w-vcs#egg=pip_chill
 jsonschema==2.6.0
 kids.cache==0.0.4
 mock==2.0.0
